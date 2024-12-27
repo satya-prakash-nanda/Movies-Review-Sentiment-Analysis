@@ -71,3 +71,13 @@ Ensure you have the following Python libraries installed before running the note
 Install all dependencies using:
 ```bash
 pip install -r requirements.txt
+```
+
+
+## 📈 Results
+
+This project demonstrates:
+
+- The ability to generate meaningful word embeddings.
+- Training robust models with high accuracy.
+- Efficient prediction workflows.
