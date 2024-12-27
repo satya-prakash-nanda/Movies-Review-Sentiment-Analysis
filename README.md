@@ -2,6 +2,8 @@
 
 Welcome to the **Word Embedding and Model Training Pipeline** project! This repository contains a comprehensive pipeline for creating word embeddings, training machine learning models, and making predictions.
 
+link - https://movies-review-sentiment-analysis-4w2aks7jwfmcpiw5qfzega.streamlit.app/
+
 ## 📂 Repository Structure
 
 1. **`word embeddings.ipynb`**  
